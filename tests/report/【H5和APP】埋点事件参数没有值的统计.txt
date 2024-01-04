@@ -1,0 +1,6 @@
+2022-08-05 10:03:12请注意！！！请注意！！！sublesson_exit_true_click事件未获取到_from值!!!
+2022-08-05 10:03:12请注意！！！请注意！！！sublesson_exit_true_click事件未获取到sublesson_id值!!!
+2022-08-05 10:03:12请注意！！！请注意！！！sublesson_exit_true_click事件未获取到sublesson_name值!!!
+2022-08-05 10:04:37请注意！！！请注意！！！sublesson_exit_true_click事件未获取到_from值!!!
+2022-08-05 10:04:37请注意！！！请注意！！！sublesson_exit_true_click事件未获取到sublesson_id值!!!
+2022-08-05 10:04:37请注意！！！请注意！！！sublesson_exit_true_click事件未获取到sublesson_name值!!!

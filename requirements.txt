@@ -1,0 +1,8 @@
+pandas==1.4.3
+setuptools==63.2.0
+garbevents==2.1.5
+mitmproxy~=8.0.0
+emoji==2.0.0
+jsonpath~=0.82
+paramiko~=2.11.0
+openpyxl
